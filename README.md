@@ -1,97 +1,82 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <h1 align="center">Hi, I'm Adamaettinata</h1>
-  <h3 align="center">A Software Engineer dedicated to architecting and building impactful digital solutions.</h3>
-  <div align="center">
-    <a href="https://linkedin.com/in/adamaettinata" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://twitter.com/adamaettinata" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-    </a>
-  </div>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Hi+there%2C+I'm+Adamaettinata;A+Software+Engineer+%26+Lifelong+Learner;Architecting+Robust+%26+Scalable+Solutions" alt="Typing SVG" /></a>
+</div>
+
+<div align="center">
+    <a href="https://linkedin.com/in/adamaettinata" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://twitter.com/adamaettinata" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+    <a href="mailto:adamaettinata@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
 ---
 
-### 👨‍💻 About Me
-
-I am a software engineer with a profound passion for turning complex problems into elegant, high-performance software. My journey in technology is driven by a relentless curiosity and a commitment to continuous learning. I specialize in full-stack development, with a keen interest in building scalable backend systems and exploring the synergies between development and operations (DevOps) to optimize the software delivery lifecycle.
-
-- 🔭 I’m currently working on personal projects to deepen my understanding of microservices architecture.
-- 🌱 I’m focused on mastering cloud-native technologies (Kubernetes, Docker) and Infrastructure as Code (IaC).
-- 🤝 I’m looking to collaborate on open-source projects that have a meaningful social or technological impact.
-- 💬 Ask me about **Go, Java, System Design, or anything related to backend development**.
-
----
-
-### 🛠️ My Tech Stack
-
-This is a list of the core technologies and tools I work with.
-
-<table width="100%">
+<table>
   <tr>
-    <td valign="top" width="33%">
-      <h4>Languages</h4>
-        <p>
-            <a href="https://golang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="30" height="30"/></a>
-            <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/></a>
-            <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/></a>
-            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/></a>
-            <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/></a>
-            <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="30" height="30"/></a>
-            <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/></a>
-        </p>
+    <td valign="top" width="65%">
+      <h3>About Me</h3>
+      <p>
+        I am a results-driven Software Engineer with a deep passion for building software that is not only functional but also efficient and scalable. My expertise lies in full-stack development, where I leverage modern frameworks and best practices to transform complex requirements into elegant, user-centric solutions.
+      </p>
+      <p>
+        My philosophy is rooted in continuous improvement and lifelong learning. I am constantly exploring emerging technologies and refining my skill set to stay at the forefront of the industry. I thrive in collaborative environments and am committed to writing clean, well-documented, and maintainable code.
+      </p>
+      <details>
+        <summary><b>My Current Focus & Goals</b></summary>
+        <ul>
+          <li><b>Deepening Cloud Expertise:</b> Mastering advanced concepts in AWS/GCP, including serverless architecture and Infrastructure as Code with Terraform.</li>
+          <li><b>Exploring System Design:</b> Actively studying and implementing scalable system design patterns for high-availability applications.</li>
+          <li><b>Contributing to Open Source:</b> Seeking to contribute my skills to impactful open-source projects, particularly in the Go and cloud-native ecosystems.</li>
+        </ul>
+      </details>
     </td>
-    <td valign="top" width="33%">
-      <h4>Frontend & Mobile</h4>
-        <p>
-            <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/></a>
-            <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/></a>
-            <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/></a>
-        </p>
-    </td>
-    <td valign="top" width="33%">
-      <h4>Backend</h4>
-        <p>
-            <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/></a>
-            <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="30" height="30"/></a>
-        </p>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="33%">
-      <h4>Databases</h4>
-        <p>
-            <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/></a>
-            <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/></a>
-        </p>
-    </td>
-    <td valign="top" width="33%">
-      <h4>DevOps & Tools</h4>
-        <p>
-            <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/></a>
-            <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/></a>
-        </p>
-    </td>
-    <td valign="top" width="33%">
-      <h4>Design & AI</h4>
-        <p>
-            <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/></a>
-            <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="30" height="30"/></a>
-        </p>
+    <td valign="top" width="35%">
+        <img src="https://github-readme-stats.vercel.app/api?username=adamaettinata&show_icons=true&theme=catppuccin_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamaettinata&layout=compact&theme=catppuccin_dark&hide_border=true" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 📈 GitHub Statistics & Activity
+### 🛠️ Professional Toolkit & Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adamaettinata&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamaettinata&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+    <p>
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+    </p>
+    <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+        <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+    </p>
+    <p>
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+    </p>
 </div>
+
+---
+
+### 🏆 GitHub Trophies & Achievements
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adamaettinata&theme=github-compact&hide_border=true&color=0e76a8" alt="Activity Graph"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=adamaettinata&theme=catppuccin&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</div>
+
+---
+
+### 📊 My GitHub Contribution Graph
+
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=adamaettinata&theme=catppuccin_dark&hide_border=true&line=58A6FF&point=58A6FF&area=true&area_color=58A6FF" alt="Activity Graph"/>
 </div>
