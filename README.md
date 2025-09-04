@@ -1,32 +1,35 @@
 <div align="center">
-  <h1 align="center">Hi 👋, I'm Adamaettinata</h1>
-  <h3 align="center">A Software Engineer passionate about building efficient applications and bridging the gap between development and operations.</h3>
+  <img src="https://media.giphy.com/media/5YgvUvKvDiQVUdZxLX/giphy.gif" width="100%"/>
+</div>
+
+<div align="center">
+  <h1>ADAMAETTINATA</h1>
+  <h3>SYSTEM.OUT.PRINTLN("A SOFTWARE ARCHITECT ENGINEERING THE FUTURE");</h3>
 </div>
 
 ---
 
-<p align="left"> <a href="https://twitter.com/adamaettinata" target="blank"><img src="https://img.shields.io/twitter/follow/adamaettinata?logo=twitter&style=for-the-badge" alt="adamaettinata" /></a> </p>
+### `> STATUS`
+<p>
+  - 🌱 **MISSION:** Assimilating the full stack (React, Node.js) and orchestrating automated chaos with DevOps.
+  - 🔭 **OBJECTIVE:** Forge alliances on disruptive projects and inject code into the open-source mainframe.
+  - 💬 **COMMS:** Ask me about anything, I am happy to help.
+  - 📫 **CONTACT:** adamaettinata@gmail.com
+  - ⚡ **FUN FACT:** My brain runs on a potent mixture of caffeine and pure determination.
+</p>
 
-- 🌱 I’m currently diving deep into **Full-Stack Web Development** (React, Node.js) and automating workflows with **DevOps** practices.
+---
 
-- 🔭 I’m looking to collaborate on innovative projects and contribute to the open-source community.
-
-- 📫 How to reach me: **adamaettinata@gmail.com**
-
-- ⚡ Fun fact: I believe the best code is written with a good cup of coffee nearby.
-
-<br>
-
-<h3 align="center">Connect with Me</h3>
+### `> CORE DIRECTORY`
 <p align="center">
   <a href="https://twitter.com/adamaettinata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adamaettinata" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/adamaettinata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adamaettinata" height="30" width="40" /></a>
   <a href="https://instagram.com/fsl.adama_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fsl.adama_" height="30" width="40" /></a>
 </p>
 
-<br>
+---
 
-<h3 align="center">Languages and Tools</h3>
+### `> TECH ARSENAL`
 <p align="center"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -48,10 +51,18 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 </p>
 
-<br>
+---
 
-<div align="center">
-  <h3 align="center">My GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=adamaettinata&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="adamaettinata stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adamaettinata&layout=compact&locale=en&theme=tokyonight&hide_border=true" alt="adamaettinata top langs" />
-</div>
+### `> GITHUB ANALYTICS`
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adamaettinata&show_icons=true&locale=en&theme=dracula&hide_border=true&count_private=true" alt="adamaettinata" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adamaettinata&layout=compact&locale=en&theme=dracula&hide_border=true" alt="adamaettinata" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adamaettinata&theme=dracula&hide_border=true" alt="adamaettinata" />
+</p>
+
+---
+
+### `> ACTIVITY GRAPH`
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adamaettinata&theme=dracula&hide_border=true&bg_color=282a36" alt="activity graph" />
+</p>
