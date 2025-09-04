@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **adamaettinata@gmail.com**
 
-- ⚡ Fun fact **Ordinary guy**
+- ⚡ Fun fact **Im just an Ordinary guy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
